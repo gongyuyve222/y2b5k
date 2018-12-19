@@ -6,7 +6,7 @@ define('TITLENAME', 'redrain1314');
 define('EN2DEKEY', 'a5545b6a5056398');
 define('EMAIL', 'sexyhome222@gmail.com');
 define('NAME', 'gyy222');
-define('PASSWORD', 'a5545b6ayxf@gmail.com');
+define('PASSWORD', 'a5545b6ayxf&gl');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
